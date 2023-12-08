@@ -1,6 +1,6 @@
 {
     "name": "khlystou/socialite-yandex-driver",
-    "description": "Description",
+    "description": "Yandex driver for Laravel socialite package",
     "keywords": ["laravel", "socialite", "yandex"],
     "type": "library",
     "license": "MIT",
