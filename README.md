@@ -1,4 +1,4 @@
-# YandexID driver for laravel socialite package
+# Yandex driver for Laravel socialite package
 
 ### Installation
 
